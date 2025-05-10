@@ -1,15 +1,15 @@
 # BigData
 
 Khởi động cum Hadoop bằng 2 câu lệnh
-start-yarn.sh
-start-dfs.sh
+- start-yarn.sh
+- start-dfs.sh
 Sau khi khởi động kiểm tra xem đã hoạt động chưa bằng lệnh jps
 
 Cần kích hoạt môi trường trước khi chạy code bằng câu lệnh
-source "tên môi trường"/bin/activate
+- source "tên môi trường"/bin/activate
 
 Sau khi đã kích hoạt môi trường thành công, ta bắt đầu chạy lệnh
-spark-submit weather_model.py
+- spark-submit weather_model.py
 
 Sau khi code chạy xong, ta sẽ được 4 file ảnh bao gồm 
 - correlation_heatmap.png
