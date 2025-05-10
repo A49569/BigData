@@ -3,6 +3,7 @@
 Khởi động cum Hadoop bằng 2 câu lệnh
 - start-yarn.sh
 - start-dfs.sh
+
 Sau khi khởi động kiểm tra xem đã hoạt động chưa bằng lệnh jps
 
 Cần kích hoạt môi trường trước khi chạy code bằng câu lệnh
